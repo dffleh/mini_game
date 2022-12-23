@@ -1,5 +1,7 @@
 # mini_game
 
+You must have NodeJS at least version 18 installed
+
 open console
 
 Enter "npm i"
